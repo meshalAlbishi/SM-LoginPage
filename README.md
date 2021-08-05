@@ -1,6 +1,6 @@
 # SM-LoginPage
 
-Simple Login page using html, css, js, jQuery, php, and mySQL.
+Simple Login page using html, css, js, jQuery, ajax, php, and mySQL.
 
 ## Database
 Only one simple table called 'users', with the following column
